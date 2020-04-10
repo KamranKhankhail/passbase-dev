@@ -1,13 +1,12 @@
 {
-  "name": "@KamranKhankhail/passbase-dev",
+  "name": "passbase-dev",
   "version": "1.0.0",
   "description": "package for the Development Team of passbase only. If you are user of react-native-passbase please use [this instead](https://docs.passbase.com/integrations/react-native)",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "podname": "react-native-passbase",
   "keywords": [
-    "react-native",
-    "passbase-dev"
+    "dev-passbase"
   ],
   "author": "Kamran Younis",
   "license": "MIT",
