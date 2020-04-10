@@ -1,20 +1,15 @@
 {
-  "name": "@passbase/react-native-passbase",
-  "version": "0.1.7",
-  "description": "Official React-Native wrapper for Passbase SDK.",
+  "name": "@KamranKhankhail/passbase-dev",
+  "version": "1.0.0",
+  "description": "package for the Development Team of passbase only. If you are user of react-native-passbase please use [this instead](https://docs.passbase.com/integrations/react-native)",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "podname": "react-native-passbase",
   "keywords": [
     "react-native",
-    "rn-passbase",
-    "react-native-passbase",
-    "passbase",
-    "passbase-sdk",
-    "react native",
-    "react-native passbase"
+    "passbase-dev"
   ],
-  "author": "Mathias",
+  "author": "Kamran Younis",
   "license": "MIT",
   "scripts": {
     "init:package": "cd example && npm i && npm run install:pods",
@@ -35,12 +30,12 @@
     "postversion": "git push && git push --tags"
   },
   "bugs": {
-    "url": "https://github.com/passbase/rn-passbase/issues"
+    "url": "https://github.com/KamranKhankhail/passbase-dev/issues"
   },
-  "homepage": "https://github.com/passbase/rn-passbase#readme",
+  "homepage": "https://github.com/KamranKhankhail/passbase-dev#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/passbase/rn-passbase.git"
+    "url": "https://github.com/KamranKhankhail/passbase-dev.git"
   },
   "peerDependencies": {
     "@babel/runtime": "*",
